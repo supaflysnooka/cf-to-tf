@@ -18,7 +18,7 @@
   "author": "Nathaniel Schweinberg <nathaniel@hmn.md>",
   "license": "MIT",
   "dependencies": {
-    "aws-sdk": "^2.94.0",
+    "aws-sdk": "^2.931.0",
     "commander": "^2.11.0",
     "get-stdin": "^5.0.1"
   },
